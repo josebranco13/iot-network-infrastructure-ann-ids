@@ -204,6 +204,6 @@ The full VLSM layout is annotated on the architecture diagram. The relevant bloc
 
 ## Author
 
-Project maintained by **Jose Branco** · IPLeiria · curricular unit focused on network infrastructure design and IoT cybersecurity.
+Project maintained by **Jose Branco**, focused on network infrastructure design and IoT cybersecurity.
 
 Contributions, suggestions and security reviews are welcome — open an issue or submit a pull request.
