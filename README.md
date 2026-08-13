@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/status-completed-brightgreen" alt="Status" />
+  <img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-049532?logo=cisco&logoColor=white" alt="Cisco" />
+  <img src="https://img.shields.io/badge/network-IPv4%20%2B%20IPv6-007ACC" alt="Network" />
+  <img src="https://img.shields.io/badge/security-IPsec%20VPN-red" alt="VPN" />
+  <img src="https://img.shields.io/badge/routing-OSPF%20%7C%20EIGRP-orange" alt="Routing" />
+  <img src="https://img.shields.io/badge/License-MIT-brightgreen" alt="License" />
+</p>
+
 # IoT Network Infrastructure with ANN-based IDS
 
 > **SecurIoT AI** — Real-time cyberattack detection for IoT networks, backed by an Artificial Neural Network (ANN) Intrusion Detection System.
